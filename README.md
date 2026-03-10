@@ -48,9 +48,8 @@
 
 <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swxfodase&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swxfodase&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff"/>
+<img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swxfodase&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=swxfodase&theme=tokyonight&hide_border=false&fire=00D4FF&ring=00D4FF&stroke=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff"/>
 
 ###
 
