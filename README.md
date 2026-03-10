@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Snow</h1>
+<h1 align="left">Hey 👋 I'm Gustavo</h1>
 
 ###
 
@@ -6,19 +6,23 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/c1/14/af/c114afdd8775affd7c497038e84fa5a4.gif"  />
-
-###
+<br clear="both">
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📚 Always learning.</p>
+<img align="right" height="150" src="https://i.pinimg.com/originals/c1/14/af/c114afdd8775affd7c497038e84fa5a4.gif"  />
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">📚 Always learning.<br>📡 Physics<br>🕵️ Cryptanalysis<br>💻 Cryptology<br>📊 Mathematics</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📡Technologies</h2>
 
 ###
 
